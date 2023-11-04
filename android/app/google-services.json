@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382256490714",
+    "project_id": "fir-todo-b340a",
+    "storage_bucket": "fir-todo-b340a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382256490714:android:341fe7f8c38ef66fb6dde3",
+        "android_client_info": {
+          "package_name": "com.example.stripe_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObT0g5NgaiFMsO0i7hKmKm_CplO1NYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
